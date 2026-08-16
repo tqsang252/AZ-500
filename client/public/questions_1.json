@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "type": "single_choice",
+    "domain": "IDENTITY & ACCESS MANAGEMENT",
+    "question": "You have been tasked with making sure that a specified user is able to implement Azure AD Privileged Identity Management (PIM).\n\nWhich of the following is the role you should assign to the user?",
+    "options": [
+      "A. The Global administrator role.",
+      "B. The Security administrator role.",
+      "C. The Password administrator role.",
+      "D. The Compliance administrator role."
+    ],
+    "answer": ["A"],
+    "explanation": "To start using PIM in a directory, the feature must first be enabled. Enabling PIM requires the Global Administrator role. Security, Password, and Compliance Administrators do not have the required authority to enable PIM for the directory.",
+    "reference": "https://learn.microsoft.com/entra/id-governance/privileged-identity-management/pim-getting-started",
+    "AI_explanation": ""
+  },
+  {
+    "id": 2,
+    "type": "multiple_choice",
+    "domain": "PLATFORM PROTECTION",
+    "question": "You are designing a network security baseline for Azure virtual machines.\n\nWhich TWO controls can directly filter inbound traffic to a virtual machine?",
+    "options": [
+      "A. Network security groups (NSGs).",
+      "B. Azure Policy assignments.",
+      "C. Azure Firewall network rules.",
+      "D. Azure Resource Manager locks."
+    ],
+    "answer": ["A", "C"],
+    "explanation": "Network security groups filter traffic at the network interface or subnet level. Azure Firewall network rules can also filter inbound and outbound network traffic when the traffic path traverses the firewall. Azure Policy evaluates compliance, while resource locks prevent management operations rather than network traffic.",
+    "reference": "https://learn.microsoft.com/azure/virtual-network/network-security-groups-overview",
+    "AI_explanation": ""
+  },
+  {
+    "id": 3,
+    "type": "single_choice",
+    "domain": "SECURITY OPERATIONS",
+    "question": "Your organization needs to centrally collect security events from Azure resources and create alert rules based on those events.\n\nWhich Azure service should you use?",
+    "options": [
+      "A. Azure Monitor Log Analytics workspace.",
+      "B. Azure Key Vault.",
+      "C. Microsoft Entra ID Application Proxy.",
+      "D. Azure Bastion."
+    ],
+    "answer": ["A"],
+    "explanation": "A Log Analytics workspace is the data store used by Azure Monitor Logs. It centralizes collected log data and supports KQL queries and alert rules. Key Vault manages secrets, Application Proxy publishes applications, and Bastion provides secure RDP or SSH connectivity.",
+    "reference": "https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-workspace-overview",
+    "AI_explanation": ""
+  },
+  {
+    "id": 4,
+    "type": "single_choice",
+    "domain": "DATA & APPLICATION SECURITY",
+    "question": "You need an Azure Storage account to reject all requests made over HTTP while continuing to allow secure clients to connect.\n\nWhich storage account setting should you configure?",
+    "options": [
+      "A. Enable infrastructure encryption.",
+      "B. Require secure transfer for REST API operations.",
+      "C. Configure a customer-managed key.",
+      "D. Enable blob versioning."
+    ],
+    "answer": ["B"],
+    "explanation": "The Require secure transfer setting forces requests to Azure Storage to use HTTPS. Infrastructure encryption adds another layer of encryption at rest, customer-managed keys control encryption keys, and blob versioning preserves previous blob versions.",
+    "reference": "https://learn.microsoft.com/azure/storage/common/storage-require-secure-transfer",
+    "AI_explanation": ""
+  }
+]

@@ -1,0 +1,26 @@
+Question: 43                                                                                        Exam Heist
+DRAG DROP -
+Your company has an Azure SQL database that has Always Encrypted enabled.
+You are required to make the relevant information available to application developers to allow them to access data
+in the database.
+Which two of the following options should be made available? Answer by dragging the correct options from the list
+to the answer area.
+Select and Place:
+
+
+
+
+  Answer:
+  Explanation:
+  Always Encrypted uses two types of keys: column encryption keys and column master keys. A column
+  encryption key is used to encrypt data in an encrypted column. A column master key is a key-protecting key
+  that encrypts one or more column encryption keys.
+
+
+  Reference:
+  https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-
+  engine
+
+
+
+

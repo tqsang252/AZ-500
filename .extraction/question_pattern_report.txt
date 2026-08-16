@@ -1,0 +1,208 @@
+Dau cau hoi:
+18:Question: 1                                                                                            Exam Heist
+54:Question: 2                                                                                            Exam Heist
+88:Question: 3                                                                                          Exam Heist
+123:Question: 4                                                                                          Exam Heist
+149:Question: 5                                                                                          Exam Heist
+179:Question: 6                                                                                          Exam Heist
+203:Question: 7                                                                                            Exam Heist
+230:Question: 8                                                                                            Exam Heist
+261:Question: 9                                                                                            Exam Heist
+290:Question: 10                                                                                         Exam Heist
+321:Question: 11                                                                                         Exam Heist
+350:Question: 12                                                                                         Exam Heist
+382:Question: 13                                                                                         Exam Heist
+417:Question: 14                                                                                         Exam Heist
+445:Question: 15                                                                                         Exam Heist
+483:Question: 16                                                                                        Exam Heist
+515:Question: 17                                                                                       Exam Heist
+542:Question: 18                                                                                       Exam Heist
+584:Question: 19                                                                                        Exam Heist
+623:Question: 20                                                                                         Exam Heist
+
+Tan suat mau:
+512
+0
+310
+
+Vi du cuoi tai lieu:
+  must be able to retrieve secrets from KeyVault1 using Azure AD-based authentication. All four listed VMs
+  support Azure AD login, can be joined to Azure AD, and are capable of using Managed Identities to access
+  KeyVault without storing credentials.
+  High-availability and load-balancing – the scenario requires the application to be highly available and to
+  distribute traffic across instances. Deploying all four VMs (VM1-VM4) enables the creation of a backend pool
+  for an Azure Load Balancer or Application Gateway, satisfying the availability requirement.
+  Supported VM generations and sizing – the exam’s prerequisite states that the compute resources must be
+  from the Gen2 generation and meet the minimum vCPU and memory specifications (e.g., at least 2vCPU+8GB
+  RAM). The referenced VMs (Standard_D2s_v3 or equivalent) satisfy those size constraints, while the other
+  options omit needed instances or include only a single VM that cannot meet the HA requirement.
+  Network and subnet considerations – the design calls for each VM to reside in a dedicated subnet that also
+  hosts a Network Security Group (NSG) allowing outbound connectivity to the KeyVault private endpoint. All
+  four VMs are configured with the same subnet design, ensuring consistent networking and security posture.
+
+  Why the other options fall short
+
+  A –VM1 only – A single VM cannot provide the required redundancy or load-balancing; it also cannot meet the
+  “multiple compute nodes” design rule that the exam expects for a production-grade App1 deployment.
+  C –VM1 and VM2 only – This subset lacks the two additional workload nodes (VM3,VM4) that are mandatory
+  to scale out the application and to meet the capacity threshold dictated by the service-level agreement (SLA).
+  D –VM1,VM2,andVM4 only – Excluding VM3 breaks the required pattern of using four identical compute
+  nodes, which the exam’s architecture diagram explicitly shows as part of the correct topology.
+
+  Conclusion
+  OptionB fully satisfies the technical constraints for hosting App1 with KeyVault1 – it provides the necessary
+  Azure AD integration, Managed Identity support, VM generation and size compliance, high-availability
+  architecture, and consistent networking. Choosing B ensures the solution is both secure and resilient,
+  meeting the certification’s performance and security criteria.
+
+  References
+
+  Azure virtual machine generations and sizing: https://learn.microsoft.com/azure/virtual-machines/sizes-gen2
+  Using Azure Managed Identities with Azure Key Vault: https://learn.microsoft.com/azure/key-
+  vault/general/managed-identity
+
+
+  Prepared by a Microsoft Azure Security Technologies specialist for exam review.
+
+
+
+
+Question: 510                                                                                        Exam Heist
+You need to configure WebApp1 to meet the data and application requirements.
+Which two actions should you perform? Each correct answer presents part of the solution.
+NOTE: Each correct selection is worth one point.
+   A. Upload a public certificate.
+   B. Turn on the HTTPS Only protocol setting.
+   C. Set the Minimum TLS Version protocol setting to 1.2.
+   D. Change the pricing tier of the App Service plan.
+   E. Turn on the Incoming client certificates protocol setting.
+
+
+
+  Answer: BE
+
+  Explanation:
+
+  Why the correct selections are B and E
+
+  B – Turn on the HTTPSOnly protocol setting
+  Enforcing HTTPS-Only guarantees that all incoming traffic to WebApp1 is encrypted, which directly satisfies
+  the “data-transfer requirement” that information must be encrypted while in transit. It also eliminates the
+  possibility of accidental HTTP calls that could bypass security controls.
+
+  E – Turn on the Incoming client certificates protocol setting
+  The application’s requirement specifies that authentication must use client certificates. Enabling this setting
+  forces the App Service to require a valid client certificate on every request, providing mutual TLS
+  authentication and ensuring that only authorized clients can access the app.
+
+  Why the other options are not the best choices
+
+  A – Upload a public certificate – Uploading a certificate is only necessary when you need to bind a certificate
+  to the app for HTTPS. The HTTPS-Only setting already handles encryption; a separate public certificate
+  upload does not add the authentication guarantee required by the application.
+
+  C – Set the Minimum TLS Version protocol setting to 1.2 – While TLS1.2 is recommended, it is a
+  complementary configuration that can be applied regardless of whether HTTPS-Only is enabled. It does not,
+  by itself, enforce client-certificate authentication or guarantee that all traffic is HTTPS.
+
+  D – Change the pricing tier of the App Service plan – Pricing tier affects cost and scaling capabilities, but it
+  has no impact on transport security or client-certificate authentication, so it does not address any of the
+  stated requirements.
+
+  Therefore, the combination of B (HTTPS-Only) and E (Incoming client certificates) directly satisfies both the
+  encryption-in-transit and client-authentication mandates with the minimal set of required actions.
+
+  References
+
+  Azure App Service HTTPS Only: https://learn.microsoft.com/azure/app-service/app-service-enable-https-only
+  Configure client certificates for Azure App Service: https://learn.microsoft.com/azure/app-service/auth-
+  client-certificates-configure
+
+  These documents provide the official configuration steps for the two selected settings.
+
+
+
+
+Question: 511                                                                                           Exam Heist
+HOTSPOT -
+You need to create Role1 to meet the platform protection requirements.
+How should you complete the role definition of Role1? To answer, select the appropriate options in the answer
+area.
+NOTE: Each correct selection is worth one point.
+Hot Area:
+
+
+
+
+  Answer:
+  Explanation:
+  Scenario: A new custom RBAC role named Role1 must be used to delegate the administration of the managed
+  disks in RG1. Role1 must be available only for
+  RG1.
+  Azure RBAC template managed disks "Microsoft.Storage/"
+
+
+  Reference:
+  https://blogs.msdn.microsoft.com/azureedu/2017/02/11/new-managed-disk-storage-option-for-your-azure-
+  vms/ https://blogs.msdn.microsoft.com/azure4fun/2016/10/21/custom-azure-rbac-roles-and-how-to-extend-
+  existing-role-definitions-scope/
+
+
+
+
+Question: 512                                                                                 Exam Heist
+DRAG DROP -
+You need to configure SQLDB1 to meet the data and application requirements.
+Which three actions should you recommend be performed in sequence? To answer, move the appropriate actions
+from the list of actions to the answer area and arrange them in the correct order.
+Select and Place:
+Answer:
+
+
+
+
+Explanation:
+
+From the Azure portal, create an Azure AD administrator for LitwareSQLServer1.
+
+Azure SQL Server must have an Azure AD admin configured before Azure AD principals can be created in
+databases.
+
+Connect to SQLDB1 by using Microsoft SQL Server Management Studio (SSMS).
+
+Connect using the Azure AD administrator account.
+
+In SQLDB1, create contained database users.
+
+Use statements such as:
+
+CREATE USER [user@contoso.com] FROM EXTERNAL PROVIDER;
+
+Reference:
+https://docs.microsoft.com/en-gb/azure/azure-sql/database/authentication-aad-overview
+                                   Thank you
+             Thank you for being so interested in the premium exam material.
+                I'm glad to hear that you found it informative and helpful.
+
+
+      If you have any feedback or thoughts on the bumps, I would love to hear them.
+     Your insights can help me improve our writing and better understand our readers.
+
+
+
+
+                                  Best of Luck
+     You have worked hard to get to this point, and you are well-prepared for the exam
+      Keep your head up, stay positive, and go show that exam what you're made of!
+
+
+
+
+       Feedback                                                     More Papers
+
+
+
+
+Total: 512 Questions
+Link: https://examheist.com/papers/microsoft/az-500
+

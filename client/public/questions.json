@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "single_choice",
+    "domain": "IDENTITY & ACCESS MANAGEMENT",
+    "question": "You have been tasked with making sure that a specified user is able to implement Azure AD Privileged Identity Management (PIM).\n\nWhich of the following is the role you should assign to the user?",
+    "options": ["A. The Global administrator role.", "B. The Security administrator role.", "C. The Password administrator role.", "D. The Compliance administrator role."],
+    "answer": ["A"],
+    "explanation": "To start using PIM in a directory, the feature must first be enabled. Enabling PIM requires the Global Administrator role.",
+    "reference": "https://learn.microsoft.com/entra/id-governance/privileged-identity-management/pim-getting-started",
+    "AI_explanation": ""
+  }
+]
+

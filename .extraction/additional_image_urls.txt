@@ -1,0 +1,304 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-030.jpg (size: 148454 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-030_cc924671.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-060.jpg (size: 84080 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-060_5f10f268.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-062.jpg (size: 83778 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-062_1ece0762.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-074.jpg (size: 108674 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-074_0df4f315.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-081.jpg (size: 72444 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-081_07a13e23.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-107.jpg (size: 111939 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-107_64aec283.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-113.jpg (size: 109139 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-113_bb67b24c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-114.jpg (size: 112470 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-114_ef2d1a3a.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-133.jpg (size: 113913 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-133_1c2a8963.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-136.jpg (size: 86567 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-136_73a14271.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-137.jpg (size: 104460 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-137_b917af90.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-139.jpg (size: 90724 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-139_024535f7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-145.jpg (size: 92940 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-145_962b5c5e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-147.jpg (size: 93847 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-147_26d371a7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-148.jpg (size: 94137 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-148_5282580e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-150.jpg (size: 75181 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-150_ceed720e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-158.jpg (size: 99678 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-158_818b40e1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-159.jpg (size: 115616 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-159_3d010663.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-167.jpg (size: 96874 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-167_a4761c08.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-168.jpg (size: 93358 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-168_4b7aa070.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-170.jpg (size: 68340 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-170_d77677b8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-172.jpg (size: 100816 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-172_29e937b4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-173.jpg (size: 127984 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-173_110c58b4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-182.jpg (size: 99807 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-182_c9012759.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-183.jpg (size: 132495 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-183_7193c8e0.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-184.jpg (size: 125274 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-184_80607800.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-188.jpg (size: 136811 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-188_e656d3bd.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-189.jpg (size: 121641 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-189_cdfc09b8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-228.jpg (size: 117129 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-228_37215891.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-229.jpg (size: 40964 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-229_62b3ad72.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-241.jpg (size: 107442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-241_8dd65d24.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-242.jpg (size: 77278 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-242_961ba9ae.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-249.jpg (size: 115027 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-249_9ccd9880.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-281.jpg (size: 137483 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-281_6a39423e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-295.jpg (size: 139852 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-295_d9a052a2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-296.jpg (size: 77619 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-296_0fa5bcb5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-298.jpg (size: 92617 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-298_227138cb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-303.jpg (size: 85199 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-303_b462cf81.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-320.jpg (size: 118096 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-320_732bc5c5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-323.jpg (size: 59323 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-323_cb9df608.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-325.jpg (size: 80508 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-325_5fef680d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-326.jpg (size: 94848 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-326_8d4354a8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-329.jpg (size: 60666 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-329_67e19626.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-330.jpg (size: 81277 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-330_8a291abc.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-332.jpg (size: 77331 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-332_d3a8388e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-333.jpg (size: 95034 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-333_45c4ce9a.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-334.jpg (size: 68348 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-334_4cf15501.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-337.jpg (size: 67110 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-337_750f2f3c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-338.jpg (size: 87388 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-338_6b938487.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-339.jpg (size: 95958 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-339_a0dc666c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-341.jpg (size: 90338 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-341_619bbb16.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-344.jpg (size: 66027 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-344_cbedeb1a.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-345.jpg (size: 101605 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-345_b81bdf86.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-346.jpg (size: 100686 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-346_943f53d6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-347.jpg (size: 97384 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-347_848522fc.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-353.jpg (size: 105778 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-353_50cf2400.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-376.jpg (size: 85480 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-376_cb0043f6.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-379.jpg (size: 97743 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-379_db9152ff.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-384.jpg (size: 112283 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-384_9e4805a5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-385.jpg (size: 139422 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-385_548fa2bf.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-387.jpg (size: 112150 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-387_4c67697c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-412.jpg (size: 45699 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-412_a9c5a96c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-418.jpg (size: 146697 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-418_6f3bcce0.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-425.jpg (size: 102344 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-425_65cc97d1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-427.jpg (size: 86530 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-427_c88322ee.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-428.jpg (size: 104573 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-428_da6c46de.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-434.jpg (size: 95351 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-434_3a1d2575.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-436.jpg (size: 114847 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-436_d4f8fe01.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-438.jpg (size: 85409 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-438_05ceb29c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-457.jpg (size: 104442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-457_d5b53705.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-458.jpg (size: 108258 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-458_c97208f7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-461.jpg (size: 71060 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-461_37f464b1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-462.jpg (size: 101402 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-462_1cc363d1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-464.jpg (size: 74292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-464_2fc31410.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/az500-question-pages/page-465.jpg (size: 111178 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-465_a27a5f38.jpg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-030.jpg -> /manus-storage/page-030_cc924671.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-060.jpg -> /manus-storage/page-060_5f10f268.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-062.jpg -> /manus-storage/page-062_1ece0762.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-074.jpg -> /manus-storage/page-074_0df4f315.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-081.jpg -> /manus-storage/page-081_07a13e23.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-107.jpg -> /manus-storage/page-107_64aec283.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-113.jpg -> /manus-storage/page-113_bb67b24c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-114.jpg -> /manus-storage/page-114_ef2d1a3a.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-133.jpg -> /manus-storage/page-133_1c2a8963.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-136.jpg -> /manus-storage/page-136_73a14271.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-137.jpg -> /manus-storage/page-137_b917af90.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-139.jpg -> /manus-storage/page-139_024535f7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-145.jpg -> /manus-storage/page-145_962b5c5e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-147.jpg -> /manus-storage/page-147_26d371a7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-148.jpg -> /manus-storage/page-148_5282580e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-150.jpg -> /manus-storage/page-150_ceed720e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-158.jpg -> /manus-storage/page-158_818b40e1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-159.jpg -> /manus-storage/page-159_3d010663.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-167.jpg -> /manus-storage/page-167_a4761c08.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-168.jpg -> /manus-storage/page-168_4b7aa070.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-170.jpg -> /manus-storage/page-170_d77677b8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-172.jpg -> /manus-storage/page-172_29e937b4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-173.jpg -> /manus-storage/page-173_110c58b4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-182.jpg -> /manus-storage/page-182_c9012759.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-183.jpg -> /manus-storage/page-183_7193c8e0.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-184.jpg -> /manus-storage/page-184_80607800.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-188.jpg -> /manus-storage/page-188_e656d3bd.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-189.jpg -> /manus-storage/page-189_cdfc09b8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-228.jpg -> /manus-storage/page-228_37215891.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-229.jpg -> /manus-storage/page-229_62b3ad72.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-241.jpg -> /manus-storage/page-241_8dd65d24.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-242.jpg -> /manus-storage/page-242_961ba9ae.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-249.jpg -> /manus-storage/page-249_9ccd9880.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-281.jpg -> /manus-storage/page-281_6a39423e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-295.jpg -> /manus-storage/page-295_d9a052a2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-296.jpg -> /manus-storage/page-296_0fa5bcb5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-298.jpg -> /manus-storage/page-298_227138cb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-303.jpg -> /manus-storage/page-303_b462cf81.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-320.jpg -> /manus-storage/page-320_732bc5c5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-323.jpg -> /manus-storage/page-323_cb9df608.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-325.jpg -> /manus-storage/page-325_5fef680d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-326.jpg -> /manus-storage/page-326_8d4354a8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-329.jpg -> /manus-storage/page-329_67e19626.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-330.jpg -> /manus-storage/page-330_8a291abc.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-332.jpg -> /manus-storage/page-332_d3a8388e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-333.jpg -> /manus-storage/page-333_45c4ce9a.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-334.jpg -> /manus-storage/page-334_4cf15501.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-337.jpg -> /manus-storage/page-337_750f2f3c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-338.jpg -> /manus-storage/page-338_6b938487.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-339.jpg -> /manus-storage/page-339_a0dc666c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-341.jpg -> /manus-storage/page-341_619bbb16.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-344.jpg -> /manus-storage/page-344_cbedeb1a.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-345.jpg -> /manus-storage/page-345_b81bdf86.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-346.jpg -> /manus-storage/page-346_943f53d6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-347.jpg -> /manus-storage/page-347_848522fc.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-353.jpg -> /manus-storage/page-353_50cf2400.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-376.jpg -> /manus-storage/page-376_cb0043f6.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-379.jpg -> /manus-storage/page-379_db9152ff.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-384.jpg -> /manus-storage/page-384_9e4805a5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-385.jpg -> /manus-storage/page-385_548fa2bf.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-387.jpg -> /manus-storage/page-387_4c67697c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-412.jpg -> /manus-storage/page-412_a9c5a96c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-418.jpg -> /manus-storage/page-418_6f3bcce0.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-425.jpg -> /manus-storage/page-425_65cc97d1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-427.jpg -> /manus-storage/page-427_c88322ee.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-428.jpg -> /manus-storage/page-428_da6c46de.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-434.jpg -> /manus-storage/page-434_3a1d2575.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-436.jpg -> /manus-storage/page-436_d4f8fe01.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-438.jpg -> /manus-storage/page-438_05ceb29c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-457.jpg -> /manus-storage/page-457_d5b53705.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-458.jpg -> /manus-storage/page-458_c97208f7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-461.jpg -> /manus-storage/page-461_37f464b1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-462.jpg -> /manus-storage/page-462_1cc363d1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-464.jpg -> /manus-storage/page-464_2fc31410.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/az500-question-pages/page-465.jpg -> /manus-storage/page-465_a27a5f38.jpg
+=====================================
+Total: 75, Success: 75, Failed: 0

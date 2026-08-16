@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="vi" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <meta name="theme-color" content="#081321" />
+    <meta name="description" content="AZ-500 Exam Practice — ứng dụng luyện thi trắc nghiệm Azure Security Technologies." />
+    <title>AZ-500 Exam Practice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;750&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <!-- Azure Operations Console: asymmetric three-column study workspace. -->
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-cluster">
+          <button class="icon-button mobile-only" id="sidebarToggle" type="button" aria-label="Mở thanh điều hướng" aria-expanded="false"><span class="hamburger" aria-hidden="true"></span></button>
+          <img class="brand-mark" src="./assets/ui/az500-shield-mark_ecc9df73.webp" alt="" width="48" height="48" />
+          <div class="brand-copy"><span>AZ-500</span><small>EXAM PRACTICE</small></div>
+        </div>
+
+        <div class="header-question" aria-live="polite">
+          <span class="eyebrow">Exam session</span>
+          <strong id="questionPosition">Question — / —</strong>
+        </div>
+
+        <div class="header-tools">
+          <label class="top-search" for="questionSearch">
+            <span aria-hidden="true">⌕</span>
+            <span class="sr-only">Tìm kiếm câu hỏi</span>
+            <input id="questionSearch" type="search" placeholder="Search questions..." autocomplete="off" />
+            <kbd>⌘K</kbd>
+          </label>
+          <button class="top-tool-button" id="randomButton" type="button"><span aria-hidden="true">⤨</span>Random</button>
+          <button class="top-tool-button" id="headerBookmarkButton" type="button" aria-pressed="false"><span aria-hidden="true">⌑</span>Bookmark</button>
+          <button class="round-theme-button" id="themeIconButton" type="button" aria-label="Đổi chế độ sáng/tối"><span id="themeIcon" aria-hidden="true">☼</span></button>
+        </div>
+
+        <div class="search-results" id="searchResults" hidden aria-live="polite"></div>
+      </header>
+
+      <div class="dashboard-layout">
+        <aside class="sidebar" id="sidebar" aria-label="Điều hướng học tập">
+          <div class="sidebar__mobile-heading"><span class="eyebrow">Điều hướng</span><button class="icon-button" id="sidebarClose" type="button" aria-label="Đóng thanh điều hướng">×</button></div>
+
+          <nav class="side-menu" aria-label="Các khu vực ôn tập">
+            <button class="side-menu__item is-active" type="button" data-view="practice"><span class="menu-icon" aria-hidden="true">▣</span><span>Practice</span></button>
+            <button class="side-menu__item" type="button" data-view="bookmarks"><span class="menu-icon menu-icon--amber" aria-hidden="true">⌑</span><span>Bookmarks</span><b id="bookmarkMenuCount">0</b></button>
+            <button class="side-menu__item" type="button" data-view="wrong"><span class="menu-icon menu-icon--red" aria-hidden="true">⊗</span><span>Wrong Answers</span><b id="wrongMenuCount">0</b></button>
+            <button class="side-menu__item" type="button" data-view="search"><span class="menu-icon" aria-hidden="true">⌕</span><span>Search</span></button>
+            <button class="side-menu__item" type="button" data-view="statistics"><span class="menu-icon" aria-hidden="true">▥</span><span>Statistics</span></button>
+            <button class="side-menu__item" type="button" data-view="settings"><span class="menu-icon" aria-hidden="true">⚙</span><span>Settings</span></button>
+          </nav>
+
+          <section class="mission-matrix" aria-labelledby="matrixTitle">
+            <div class="mission-matrix__head"><div><span class="eyebrow">Question navigator</span><h2 id="matrixTitle">Exam matrix</h2></div><span id="matrixCount">0</span></div>
+            <div class="question-grid question-grid--mission" id="questionGrid" role="list" aria-live="polite"></div>
+            <p class="matrix-legend"><span><i class="legend-dot legend-dot--answered"></i>Answered</span><span><i class="legend-dot legend-dot--current"></i>Current</span><span><i class="legend-bookmark">⌑</i>Marked</span></p>
+          </section>
+
+          <section class="side-progress" aria-labelledby="sideProgressTitle">
+            <div class="side-progress__heading"><span class="eyebrow" id="sideProgressTitle">Progress</span><span id="sideProgressPercent">0%</span></div>
+            <div class="progress-ring" aria-label="Tiến độ hoàn thành"><svg viewBox="0 0 120 120" aria-hidden="true"><circle class="progress-ring__track" cx="60" cy="60" r="50"/><circle class="progress-ring__value" id="progressRingValue" cx="60" cy="60" r="50"/></svg><strong id="ringPercent">0%</strong></div>
+            <p><span id="sideAnsweredCount">0</span> / <span id="sideTotalCount">0</span> answered</p>
+          </section>
+
+          <section class="side-stats" aria-label="Thống kê nhanh">
+            <div><span class="stat-symbol stat-symbol--correct" aria-hidden="true">✓</span><span>Correct</span><strong id="correctCount">0</strong></div>
+            <div><span class="stat-symbol stat-symbol--wrong" aria-hidden="true">×</span><span>Wrong</span><strong id="wrongCount">0</strong></div>
+            <div><span class="stat-symbol stat-symbol--bookmark" aria-hidden="true">⌑</span><span>Bookmarked</span><strong id="bookmarkCount">0</strong></div>
+          </section>
+
+          <div class="sidebar-bottom">
+            <label class="sidebar-theme-row"><span><span class="menu-icon" aria-hidden="true">☾</span>Dark Mode</span><span class="theme-switch"><input id="themeToggle" type="checkbox" checked /><span class="theme-switch__track" aria-hidden="true"><span class="theme-switch__sun">☼</span><span class="theme-switch__moon">☾</span><span class="theme-switch__thumb"></span></span></span></label>
+            <div class="sidebar-art" aria-hidden="true"></div>
+          </div>
+        </aside>
+
+        <main class="workspace" id="workspace">
+          <section class="question-card panel" aria-labelledby="questionText">
+            <div class="question-card__heading"><div class="question-label-wrap"><span class="pill pill--blue">Question</span><span class="question-domain" id="questionDomain">AZURE SECURITY</span></div><span class="check-state" id="checkState">Unverified</span></div>
+            <div class="question-body"><p class="question-number" id="questionNumber">QUESTION 01</p><h1 id="questionText">Loading question...</h1><div class="question-media" id="questionMedia" aria-live="polite"></div><p class="selection-hint" id="selectionHint">Select one best answer.</p><form class="answers" id="answersForm" aria-live="polite"></form><p class="validation-message" id="validationMessage" role="status" aria-live="polite"></p></div>
+            <div class="question-actions"><button class="button button--primary" id="checkButton" type="button">Check Answer</button><div class="navigation-actions"><button class="button button--secondary" id="previousButton" type="button"><span aria-hidden="true">←</span>Previous</button><button class="button button--secondary" id="nextButton" type="button">Next<span aria-hidden="true">→</span></button></div><button class="button button--ghost" id="bookmarkButton" type="button" aria-pressed="false"><span class="bookmark-icon" aria-hidden="true">⌑</span>Bookmark this</button></div>
+          </section>
+
+          <aside class="insight-column" aria-label="Phản hồi và trợ lý học tập">
+            <section class="explanation-card panel" id="explanationCard" aria-live="polite"></section>
+            <section class="ai-assistant panel" aria-labelledby="aiAssistantTitle">
+              <div class="ai-assistant__head"><div class="assistant-avatar" aria-hidden="true">✦</div><div><span class="eyebrow">Verification brief</span><h2 id="aiAssistantTitle">Concept Analysis</h2></div></div>
+              <p class="ai-assistant__copy">Open a structured verification brief: source rationale, decision path, exam signal, and a focused review note.</p>
+              <button class="ai-explain-button" id="aiExplainButton" type="button"><span class="ai-explain-button__icon" aria-hidden="true">✦</span><span><small>CONCEPT BRIEF</small>Explain this question</span><span class="ai-explain-button__arrow" aria-hidden="true">↗</span></button>
+              <p class="ai-assistant__status" id="aiAssistantStatus">Available for the current question</p>
+            </section>
+          </aside>
+
+          <section class="completion-panel panel" aria-labelledby="completionTitle"><div class="completion-panel__copy"><span class="eyebrow">Question progress</span><h2 id="completionTitle">Question Progress</h2></div><div class="completion-panel__value"><strong id="completionLabel">0 / 0</strong><span id="completionDetail">(0%)</span></div><div class="progress-track" aria-label="Tiến độ hoàn thành"><span id="completionProgressFill"></span></div></section>
+
+          <section class="notes-panel panel" aria-labelledby="notesTitle"><div class="notes-panel__head"><span class="notes-icon" aria-hidden="true">✎</span><div><span class="eyebrow">Review workspace</span><h2 id="notesTitle">Review Notes</h2></div><span class="notes-save-state" id="notesSaveState">Saved locally</span></div><label class="sr-only" for="notesInput">Notes for current question</label><textarea id="notesInput" rows="4" placeholder="Record a verification note..."></textarea></section>
+
+          <section class="submit-panel" aria-label="Submit exam"><div><span class="eyebrow">Final checkpoint</span><p>Submit at any time to calculate your score and review flagged questions.</p></div><button class="button button--submit" id="submitButton" type="button">Submit <span aria-hidden="true">↗</span></button></section>
+        </main>
+      </div>
+    </div>
+
+    <dialog class="result-modal" id="resultModal" aria-labelledby="resultTitle"><div class="result-modal__header"><button class="icon-button" id="closeModalButton" type="button" aria-label="Đóng kết quả">×</button></div><div class="result-modal__content" id="resultModalContent"></div></dialog>
+    <dialog class="ai-modal" id="aiExplanationModal" aria-labelledby="aiModalTitle"><div class="ai-modal__header"><div><span class="eyebrow">AI concept brief</span><h2 id="aiModalTitle">Question explanation</h2></div><button class="icon-button" id="closeAiModalButton" type="button" aria-label="Close AI explanation">×</button></div><div class="ai-modal__content" id="aiModalContent"></div></dialog>
+    <dialog class="exhibit-viewer" id="exhibitViewer" aria-labelledby="exhibitViewerTitle"><div class="exhibit-viewer__header"><div><span class="eyebrow">Source exhibit</span><h2 id="exhibitViewerTitle">Exhibit viewer</h2><p id="exhibitViewerCaption">Use the controls to inspect the source image.</p></div><button class="icon-button" id="closeExhibitViewer" type="button" aria-label="Close exhibit viewer">×</button></div><div class="exhibit-viewer__stage" id="exhibitViewerStage"><img id="exhibitViewerImage" draggable="false" alt="" /></div><div class="exhibit-viewer__toolbar" aria-label="Exhibit zoom controls"><button class="viewer-control" id="exhibitZoomOut" type="button" aria-label="Zoom out">−</button><output id="exhibitZoomValue" aria-live="polite">100%</output><button class="viewer-control" id="exhibitZoomIn" type="button" aria-label="Zoom in">+</button><button class="viewer-control viewer-control--reset" id="exhibitZoomReset" type="button">Reset view</button><span class="exhibit-viewer__hint">Scroll to zoom · drag to pan · Esc to close</span></div></dialog>
+    <div class="sidebar-backdrop" id="sidebarBackdrop" hidden></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

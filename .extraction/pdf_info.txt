@@ -1,0 +1,18 @@
+Creator:         pdf-lib (https://github.com/Hopding/pdf-lib)
+Producer:        pdf-merger-js
+CreationDate:    Thu Jul 16 20:53:46 2026 UTC
+ModDate:         Thu Jul 16 20:53:46 2026 UTC
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           535
+Encrypted:       no
+Page size:       595 x 421 pts (A5)
+Page rot:        0
+File size:       55159223 bytes
+Optimized:       no
+PDF version:     1.7
